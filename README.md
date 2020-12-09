@@ -1,5 +1,5 @@
 # Token Generator
-This is a token genarator for creating your first user in [Dancespiele API](https://github.com/dancespiele/dancespiele_api) or simplely as `SYSTEM` authorization role.
+This is a token genarator for creating your first user in [Dancespiele API](https://github.com/dancespiele/dancespiele_api) or simplely as `SYSTEM` authorization role for every API.
 
 ## install
 
