@@ -4,7 +4,7 @@ This is a token genarator for creating your first user in [Dancespiele API](http
 ## install
 
 ```
-cargo install token_generator
+cargo install system_token_generator
 ```
 
 ## Command

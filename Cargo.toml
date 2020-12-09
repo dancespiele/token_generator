@@ -1,5 +1,5 @@
 [package]
-name = "token_generator"
+name = "system_token_generator"
 version = "0.1.0"
 authors = ["Francisco Jesus Navarro Cortes <spielcrypto@gmail.com>"]
 edition = "2018"
