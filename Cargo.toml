@@ -5,6 +5,7 @@ authors = ["Francisco Jesus Navarro Cortes <spielcrypto@gmail.com>"]
 edition = "2018"
 license = "MIT"
 readme = "./README.md"
+description = "Genarate your system token"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
