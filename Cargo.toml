@@ -1,0 +1,20 @@
+[package]
+name = "token_generator"
+version = "0.1.0"
+authors = ["Francisco Jesus Navarro Cortes <spielcrypto@gmail.com>"]
+edition = "2018"
+license = "MIT"
+readme = "./README.md"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[profile.release]
+opt-level = "z"
+
+[dependencies]
+jsonwebtoken = "7.2"
+serde = { version = "1.0", features = ["derive"]}
+serde_derive = "1.0"
+serde_json = "1.0"
+chrono = { version="0.4", features= ["serde", "rustc-serialize"] }
