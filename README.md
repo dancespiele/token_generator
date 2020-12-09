@@ -10,7 +10,7 @@ cargo install token_generator
 ## Command
 
 ```
-token_generator [YOUR SECRET] [USER NICKNAME]
+token_generator [YOUR SECRET] [USER EMAIL]
 ```
 
 ## Example
